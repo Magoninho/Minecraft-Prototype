@@ -1,3 +1,3 @@
 # Minecraft-Prototype
 
-Um bom reposit
+Um bom repositório
